@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 public class RentalInfo {
   private static final String REGULAR_CODE = "regular";
   // ...
